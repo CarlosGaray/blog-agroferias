@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo":"¿Sigo escribiendo sobre mi ex?",
+    "contenido":"No sé si llamarlo ex sea el adjetivo correcto ya que nunca estuvimos 100% juntos, entonces me pregunto constantemente ¿realmente es mi ex? Lo que aquí me agobia es que la escritura es mi herramienta para la sanación, es con la que me desahogo, con la que le doy punto final a cada historia de amor que he tenido, y no puedo evitar cuestionarme mientras escribo esto, ¿por que sigo escribiendo sobre esta persona que ya no forma parte de mi día a día?
+                <p>Pero, por desgracia tengo que seguir hablando de esta relación, soy escritora, tengo que ser honesta y tengo que fijar mi vida en una página de word.<p>",
+    "fechaCreacion":"August 28, 2022",
+    "images":[
+          {
+              "url": "https://images.squarespace-cdn.com/content/v1/597e718ab3db2bde61e2a8ac/1661779655929-4HB4WLC9ZYXF3GDDTXWX/cosa.png?format=500w",
+              "is_principal":true,
+          },
+          {
+              "url": "https://images.squarespace-cdn.com/content/v1/597e718ab3db2bde61e2a8ac/a089f8e2-f123-4399-b61c-31f4a73246dc/cosa.png?format=500w",
+              "is_principal":false,
+          },
+          {
+              "url": "https://images.squarespace-cdn.com/content/v1/597e718ab3db2bde61e2a8ac/a089f8e2-f123-4399-b61c-31f4a73246dc/cosa.png?format=500w",
+              "is_principal":false,
+          },
+    ]
+  }
+]
